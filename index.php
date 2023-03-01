@@ -20,6 +20,7 @@ do{
 var_dump($autoList);
 
 //canvi per fer el 3r repositori
+//canvi realitzat desde el editor de GITHUB
 // // function pedirDatos($dato){
 // //   return readlines("Dime el/la ".$dato.": ");
 // // }
